@@ -25,11 +25,25 @@ img {
     border-radius: 100%;
 }
 
+ul {
+    text-align: left;
+}
+
 a {
     color: whitesmoke;
     font-weight: bold;
 }
 
-p {
-    
+a:hover {
+    color: rgba(202, 201, 201, 0.459);
+    font-weight: bold;
+}
+
+h1 a {
+    color: rgba(0, 0, 0, 0.89);
+    text-decoration: none;
+}
+
+h1 a:hover {
+    color: grey;
 }
