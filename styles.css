@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana;
+}
+
+header {
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+main {
+    width: max-content;
+    margin: 0 auto;
+    margin-top: 2%;
+    text-align: center;
+    padding: 5%;
+    border: 1px solid blueviolet;
+    background: blueviolet;
+    color: whitesmoke;
+    border-radius: 5%;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    border-radius: 100%;
+}
+
+a {
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+p {
+    
+}
